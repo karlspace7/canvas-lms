@@ -1,7 +1,7 @@
 h1. CanvasCrummy
 
 This is a fork of an early version of the crummy gem.
-http://rubygems.org/gems/crummy
+http://gems.ruby-china.com/gems/crummy
 
 TODO: use a more current version of the gem instead of this forked one
 

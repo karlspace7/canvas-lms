@@ -1,6 +1,6 @@
 = Canvas Stringex
 
-This is a fork of the Stringex gem: http://rubygems.org/gems/stringex
+This is a fork of the Stringex gem: http://gems.ruby-china.com/gems/stringex
 
 TODO: Use a current version of this stringex gem at some point
 
